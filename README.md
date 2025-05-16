@@ -33,3 +33,5 @@ How It’s Built
   - One for questions
   - One for correct answers
 - A *loop* checks user answers and updates the score.
+
+YouTube link: https://youtu.be/T7vgBXEncQ0?si=GbIduJwOuFLYmehI
